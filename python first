@@ -1,0 +1,28 @@
+print("my name is bilal"," i am a student of bsit")
+print("my age is 21")
+print(90)
+print(56/4)
+name="bilal"
+age=23
+price= 35.8
+chaara="j"
+print(name,age,price)
+print(type(name))
+print(type(age))
+print(type(price))
+print(type(chaara))
+afe= 34
+no= False
+h=None
+print(type(afe))
+print(type(no))
+print(type(h))
+a=4
+b=6
+sum = a+b
+print(sum)
+name=input("name: ")
+print(name)
+age=int(input("age:"))
+price=float(input( "price:"))
+print("my name is ",name,"my age is ",age,"my book price is",price)
