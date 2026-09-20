@@ -1,0 +1,7 @@
+# find input fisrt and lenght
+first=input("enter first name =")
+print(first)
+print(len(first))
+# count o $ in this string
+a= "amercia $ is very strong courency $is evey power ful"
+print(a.count("$"))

@@ -1,0 +1,18 @@
+run=int(input("enter runs="))
+if(run >=100):
+    print("That runrate is good and that player is good")
+elif(run<=100  and run>=50):
+    print("That runrate is bad and that player is not good")
+else:
+    print("That player is bad  runrate")  
+# pritce question for marks and grade system
+marks=int(input("Enter marks="))
+if(marks>=90):
+     print("A")
+elif(marks>=80):
+    print("B")  
+elif(marks>=70):
+    print("c")
+else:
+    print("D")    
+          

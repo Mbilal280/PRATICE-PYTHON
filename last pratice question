@@ -1,0 +1,24 @@
+# EVEN ODD NUMBER CHECK IN INT NUMBERS
+no=int(input("enter number"))
+baki=no%2
+if(baki==0):
+    print("EVEN NUMBERS")
+else:
+    print("ODD NUMBERS")
+# 3 NUMBER WHO NUMBER IS GREATEST IN THIS THREE NUMBERS
+E=int(input("enter the value of e="))   
+F=int(input("enter the value of f="))   
+G=int(input("enter the value of G="))   
+if(E>F and E>G):
+    print("e is greastest number in this three numbers")  
+elif(F>G ):
+    print("F IS greast number in yhis three numbers") 
+else:
+    print("g is greast numbers in this three numbers ")
+# wap this no is 7 is multipare is not 
+g=int(input("enter number="))
+if(g%7==0) :
+    print("that is a 7 multiplayer")    
+else:
+    print("that is not a multiplayer of 7 is not")      
+        
